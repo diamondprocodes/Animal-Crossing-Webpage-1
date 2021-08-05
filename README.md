@@ -4,3 +4,4 @@ The assignment given was to create a static webpage using the knowledge covered 
 HTML requirements: h1, h2, p, div, span, strong, em, br, hr, a, img, button
 CSS requirements: margin, padding, font-size, font-weight, color, background (with linear-gradient), line-height, box-shadow, border, transition
 JS requirements: let, if, else, alert, prompt, event
+This project is currently under construction for better optimization and will receive updates!!
